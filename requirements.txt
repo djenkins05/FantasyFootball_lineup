@@ -1,0 +1,5 @@
+streamlit
+nflreadpy
+google-genai
+python-dotenv
+pandas
